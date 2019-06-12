@@ -1,2 +1,2 @@
-# Hyperparameter_tuning
-Repo contains hyperparameter tuning for several well-knowing Machine Learning Models
+# Hyperparameters_tuning
+Repo contains survey of hyperparameters tuning for several well-knowing Machine Learning Models
